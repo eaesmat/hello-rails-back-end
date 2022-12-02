@@ -19,7 +19,7 @@ default: &default
   encoding: unicode
   host: winhost
   username: postgres
-  password: ithuba666
+  password: ea.esmat123
   port: 5432
   # For details on connection pooling, see Rails configuration guide
   # https://guides.rubyonrails.org/configuring.html#database-pooling
